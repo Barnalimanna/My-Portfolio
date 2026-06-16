@@ -47,8 +47,7 @@ const Projects = () => {
     title: "House Price Prediction System",
     category: "Machine Learning",
     description:
-    description:
-  "A Flask-based machine learning web application that predicts house prices based on property features such as area, bedrooms, bathrooms, parking, furnishing status, and housing facilities.",
+    "A Flask-based machine learning web application that predicts house prices based on property features such as area, bedrooms, bathrooms, parking, furnishing status, and housing facilities.",
     tech: [
     "Python",
     "Flask",
