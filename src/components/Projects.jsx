@@ -28,35 +28,39 @@ const Projects = () => {
   github: "https://github.com/Barnalimanna/Diseases_prediction_and_Medical_Recommendation_System",
 },
 
-  {
-    title: "Library AI Agent",
-    category: "Artificial Intelligence",
-    description:
-    "AI-powered academic assistant that recommends relevant learning materials using NLP and IBM Granite models based on students’ queries.",
-    tech: [
-    "IBM Granite",
-    "NLP",
-    "IBM Cloud",
-    "Python"
-    ],
-    live: "#",
-    github: "https://github.com/Barnalimanna/LibraryAgent",
-},
+//   {
+//     title: "Library AI Agent",
+//     category: "Artificial Intelligence",
+//     description:
+//     "AI-powered academic assistant that recommends relevant learning materials using NLP and IBM Granite models based on students’ queries.",
+//     tech: [
+//     "IBM Granite",
+//     "NLP",
+//     "IBM Cloud",
+//     "Python"
+//     ],
+//     live: "#",
+//     github: "https://github.com/Barnalimanna/LibraryAgent",
+// },
 
 {
-    title: "House Price Prediction Model",
+    title: "House Price Prediction System",
     category: "Machine Learning",
     description:
-    "Machine learning model that predicts house prices based on customer requirements and property features.",
+    description:
+  "A Flask-based machine learning web application that predicts house prices based on property features such as area, bedrooms, bathrooms, parking, furnishing status, and housing facilities.",
     tech: [
     "Python",
+    "Flask",
     "Pandas",
     "NumPy",
     "Scikit-learn",
-    "Matplotlib"
+    "Matplotlib",
+    "HTML",
+    "CSS"
     ],
-    live: "#",
-    github: "YOUR_GITHUB_URL",
+    live: "https://house-price-prediction-system-54oq.onrender.com",
+    github: "https://github.com/Barnalimanna/House-Price-Prediction-System",
 },
 
 
